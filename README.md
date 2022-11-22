@@ -1,21 +1,19 @@
 ### Hi there 👋 I'm Marco "ScardracS" Scardovi
 
-🔭 Working on
- - My blog www.scardracs.blog and my PinePhone
- - 
+### 🔭 Working on
+ - Gentoo
+ - PinePhone
  
-📫 You can reach me out
- - E-Mail - mailto:marcoscardovi@protonmail.com
- - Twitter - https://www.twitter.com/ScardracS
+### 📫 My contacts!
+ - E-Mail - mailto:mscardovi@icloud.com
+ - Twitter - https://www.twitter.com/scardracs
  
-😄 Please consider to send me a coffee if I have helped you:
- - For PayPal www.paypal.me/ScardracS
- - For patreons: https://liberapay.com/ScardracS/donate
- - For Bitcoins: 3KoCvKwhygKLM9DHXhJenpXZJfMZvohMZV
- - For Monero: 8BN9woVJ6GCWcD2N6RBvE6MVSBstufj5YMhd9iP99UdfjWFtGSwmG3iHWJaXEGWnyUbX8qvmXKWJgQDqbTmAF1iNUUSdTpr
+### 😄 Do you want to supports me? Go here and buy me a beer!
+ - For [PayPal](https://www.paypal.com/paypalme/mscardovi)
 
 ### 📈 My Stats!
 ![ScardracS's Github Stats](https://github-readme-stats.vercel.app/api?username=scardracs&show_icons=true&theme=radical)
+
 <!--
 **ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
